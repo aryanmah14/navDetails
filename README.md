@@ -16,9 +16,6 @@ NavDetails is a modern Android application built using Jetpack Compose that demo
 | :---: | :---: | :---: |
 | ![Screen 1](https://via.placeholder.com/300x600?text=Navigation+Drawer) | ![Screen 2](https://via.placeholder.com/300x600?text=API+Data+View) | ![Screen 3](https://via.placeholder.com/300x600?text=App+Landing) |
 
-> [!NOTE]
-> Replace the placeholder URLs above with your actual image paths or hosted URLs.
-
 ## 🛠️ Tech Stack
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
@@ -52,6 +49,3 @@ app/src/main/java/com/example/
 2. Open the project in Android Studio.
 3. Sync Gradle and build the project.
 4. Run on an emulator or a physical device.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
