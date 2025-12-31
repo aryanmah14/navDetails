@@ -10,12 +10,6 @@ NavDetails is a modern Android application built using Jetpack Compose that demo
 - **MVVM Architecture**: Follows Android best practices for clean code and separation of concerns.
 - **Repository Pattern**: Centralized data management for better testability and scalability.
 
-## 📸 Screenshots
-
-| Screen 1 | Screen 2 | Screen 3 |
-| :---: | :---: | :---: |
-| ![Screen 1](https://via.placeholder.com/300x600?text=Navigation+Drawer) | ![Screen 2](https://via.placeholder.com/300x600?text=API+Data+View) | ![Screen 3](https://via.placeholder.com/300x600?text=App+Landing) |
-
 ## 🛠️ Tech Stack
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
